@@ -59,7 +59,7 @@ header{
 }   
 /* hero Section */
 #hero{
-    background-image: url(../background.jpg);
+    background-image: url(./assests/background.jpg);
     background-size: cover;
     background-position: top center ;
     position:sticky ;
